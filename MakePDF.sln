@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakePDF", "MakePDF\MakePDF.csproj", "{7B84AC61-9BED-4530-8CE9-8F44F4521C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B84AC61-9BED-4530-8CE9-8F44F4521C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B84AC61-9BED-4530-8CE9-8F44F4521C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B84AC61-9BED-4530-8CE9-8F44F4521C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B84AC61-9BED-4530-8CE9-8F44F4521C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D77A18-29E2-4FA1-ADF2-8CE020AB79EE}
+	EndGlobalSection
+EndGlobal
